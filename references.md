@@ -11,7 +11,7 @@ and PAH metabolites, often metabolized by CYP, may react with DNA to produce DNA
 Comparative gene responses to collected ambient particles in vitro: endothelial responses (https://www-ncbi-nlm-nih-gov.proxy.libraries.rutgers.edu/pmc/articles/PMC4631546/
 >Upregulation (in blood/pulmonary): IL-6, IL-1beta, MIP-1alpha, GM-CSF 
 
-**wood smoke particle**
+**Wood Smoke Particle**
 ---
 Wildfire smoke exposure is associated with decreased methylation of the PDL2 gene (https://www.jimmunol.org/content/204/1_Supplement/146.17.abstract)
 > T cell response downregulated from decreased PDL2 gene methylation
