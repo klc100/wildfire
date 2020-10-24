@@ -32,8 +32,7 @@ Northern California wildfire (summer 2008) adolescent rhesus macaque monkeys hou
 -"c-Rel and RelB transcription factors in the NF-κB family were significantly reduced in wildfire smoke–exposed female monkeys relative to controls"
 - increased RelB mRNA expression
 - persistent immune function alteration
-
-
+---
 - [x]compile list of papers related to the project
 - [ ]analyze microarray data for GEO accession: GSE18593
 - [ ]project proposal write-up
