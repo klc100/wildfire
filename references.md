@@ -2,16 +2,16 @@
 ---
 Polycyclic Aromatic Hydrocarbons: From Metabolism to Lung Cancer  
 (https://academic.oup.com/toxsci/article/145/1/5/1627571)  
-PAH transformation to carcinogenic metabolites involves 
-- "metabolic enzymes and 3 major pathways CYP1A1/1B1 and epoxide hydrolase pathway (CYP/EH pathway), CYP peroxidase pathway, and aldo-keto reductases pathway (AKR pathway)"
-- PAH metabolites, often metabolized by CYP, may react with DNA to produce DNA adducts. 
+> PAH transformation to carcinogenic metabolites involves  
+"metabolic enzymes and 3 major pathways CYP1A1/1B1 and epoxide hydrolase pathway (CYP/EH pathway), CYP peroxidase pathway, and aldo-keto reductases pathway (AKR pathway)"  
+PAH metabolites, often metabolized by CYP, may react with DNA to produce DNA adducts.  
 DNA-reactive metabolites
 
 Do 16 Polycyclic Aromatic Hydrocarbons Represent PAH Air Toxicity?  
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5634701/)  
-PMID: 29051449
-- gas-phase PAHs (mainly low molecular weight PAHs) contribute to toxicity
-- "Gas-particle partitioning of semi-volatile compounds shifts to the gas phase at higher temperature, which explains the stronger contribution of gas-phase PAHs during summer months of this project."
+PMID: 29051449  
+> gas-phase PAHs (mainly low molecular weight PAHs) contribute to toxicity  
+"Gas-particle partitioning of semi-volatile compounds shifts to the gas phase at higher temperature, which explains the stronger contribution of gas-phase PAHs during summer months of this project."
 
 **Endothelial Responses**
 ---
