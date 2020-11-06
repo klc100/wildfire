@@ -25,7 +25,7 @@ Wood Smoke Particle Sequesters Cell Iron to Impact a Biological Effect (https://
 PMID:26462088
 - ferruginous bodies formation, elevated ferritin (iron storage protein)
 
-Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung Function Decrements in Adolescence (https://www.atsjournals.org/doi/full/10.1165/rcmb.2016-0380OC)
+Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung Function Decrements in Adolescence (https://www.atsjournals.org/doi/full/10.1165/rcmb.2016-0380OC)  
 Northern California wildfire (summer 2008) adolescent rhesus macaque monkeys housed outdoors
 - wildfire smoke generates significant oxidative stress
 - peripheral blood immune cell responses to TLR ligand: IL-6 (in males) and IL-8 protein (in females) amounts decreased
