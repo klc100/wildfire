@@ -32,6 +32,12 @@ Northern California wildfire (summer 2008) adolescent rhesus macaque monkeys hou
 -"c-Rel and RelB transcription factors in the NF-κB family were significantly reduced in wildfire smoke–exposed female monkeys relative to controls"
 - increased RelB mRNA expression
 - persistent immune function alteration
+
+Effects of wildfire on sea otter (*Enhydra lutris*) gene transcript profiles (https://deepblue.lib.umich.edu/bitstream/handle/2027.42/109779/mms12151.pdf?sequence=1)
+- increased disease susceptibility
+- immune function suppression 
+- increased tranascription of AHR (arylhydrocarbon receptor, responds to toxicants), CaM (calmodulin), HDC (translationally controlled tumor protein)
+- decreased transcription of DRB (MHC component, induces immune response initiation), IL-10 (anti-inflammatory cytokine), IL-18 (pro-inflammatory cytokine)
 ---
 - [x]compile list of papers related to the project
 - [ ]analyze microarray data for GEO accession: GSE18593
