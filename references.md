@@ -19,7 +19,7 @@ Comparative gene responses to collected ambient particles in vitro: endothelial 
 **Wood Smoke Particle**
 ---
 Wildfire smoke exposure is associated with decreased methylation of the PDL2 gene (https://www.jimmunol.org/content/204/1_Supplement/146.17.abstract)
-- T cell response downregulated from decreased PDL2 gene methylation
+> T cell response downregulated from decreased PDL2 gene methylation
 
 Wood Smoke Particle Sequesters Cell Iron to Impact a Biological Effect (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838017/) 
 PMID:26462088
@@ -27,17 +27,17 @@ PMID:26462088
 
 Early Life Wildfire Smoke Exposure Is Associated with Immune Dysregulation and Lung Function Decrements in Adolescence (https://www.atsjournals.org/doi/full/10.1165/rcmb.2016-0380OC)  
 Northern California wildfire (summer 2008) adolescent rhesus macaque monkeys housed outdoors
-- wildfire smoke generates significant oxidative stress
-- peripheral blood immune cell responses to TLR ligand: IL-6 (in males) and IL-8 protein (in females) amounts decreased
--"c-Rel and RelB transcription factors in the NF-κB family were significantly reduced in wildfire smoke–exposed female monkeys relative to controls"
-- increased RelB mRNA expression
-- persistent immune function alteration
+> wildfire smoke generates significant oxidative stress  
+  peripheral blood immune cell responses to TLR ligand: IL-6 (in males) and IL-8 protein (in females) amounts decreased  
+  "c-Rel and RelB transcription factors in the NF-κB family were significantly reduced in wildfire smoke–exposed female monkeys relative to controls"  
+  increased RelB mRNA expression  
+  persistent immune function alteration  
 
 Effects of wildfire on sea otter (*Enhydra lutris*) gene transcript profiles (https://deepblue.lib.umich.edu/bitstream/handle/2027.42/109779/mms12151.pdf?sequence=1)
-- increased disease susceptibility
-- immune function suppression 
-- increased tranascription of AHR (arylhydrocarbon receptor, responds to toxicants), CaM (calmodulin), HDC (translationally controlled tumor protein)
-- decreased transcription of DRB (MHC component, induces immune response initiation), IL-10 (anti-inflammatory cytokine), IL-18 (pro-inflammatory cytokine)
+> increased disease susceptibility  
+immune function suppression  
+increased tranascription of AHR (arylhydrocarbon receptor, responds to toxicants), CaM (calmodulin), HDC (translationally controlled tumor protein)  
+decreased transcription of DRB (MHC component, induces immune response initiation), IL-10 (anti-inflammatory cytokine), IL-18 (pro-inflammatory cytokine)
 ---
 - [x]compile list of papers related to the project
 - [ ]analyze microarray data for GEO accession: GSE18593
