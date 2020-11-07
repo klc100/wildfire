@@ -43,6 +43,12 @@ Effects of wildfire on sea otter (*Enhydra lutris*) gene transcript profiles (ht
 - immune function suppression  
 - increased tranascription of AHR (arylhydrocarbon receptor, responds to toxicants), CaM (calmodulin), HDC (translationally controlled tumor protein)  
 - decreased transcription of DRB (MHC component, induces immune response initiation), IL-10 (anti-inflammatory cytokine), IL-18 (pro-inflammatory cytokine)
+
+Toxicity of wood smoke particles in human A549 lung epithelial cells: the role of PAHs, soot and zinc  
+(https://pubmed.ncbi.nlm.nih.gov/26838041/)  
+- Collected wood smoke particles exposed to A549 lung epithelial cells  
+- Most important in ROS formation: soot fraction and metals  
+
 ---
 - [x]compile list of papers related to the project
 - [ ]analyze microarray data for GEO accession: GSE18593
